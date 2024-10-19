@@ -4,6 +4,9 @@
 
 Este proyecto es una mejora de un proyecto de realidad virtual (VR) proporcionado por la empresa CERV, desarrollado por un grupo de tres estudiantes: **Pablo Carazas**, **Camila Luque**, y **Mauricio Apaza**. Nuestro objetivo fue añadir nuevas funcionalidades y mejorar la interacción con los vehículos en el entorno virtual.
 
+Debido al tamaño del proyecto, solo se han subido **dos packages** que contienen los cambios principales que implementamos. El proyecto completo no pudo ser subido por limitaciones de espacio.
+
+
 ## Mejoras Implementadas
 
 ### 1. Modo Focus
